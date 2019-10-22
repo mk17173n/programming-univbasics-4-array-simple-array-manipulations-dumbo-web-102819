@@ -16,7 +16,7 @@ def using_unshift (array,element)
    array.delete(2)
  end
  
- 
+ def using_shift
  
  
  
